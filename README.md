@@ -1,2 +1,2 @@
 # SQL
-SQL_repository
+SQL_repository for SQl Queswtion and Answer practice
